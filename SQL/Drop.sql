@@ -1,0 +1,1 @@
+DROP DATABASE league_of_legends;

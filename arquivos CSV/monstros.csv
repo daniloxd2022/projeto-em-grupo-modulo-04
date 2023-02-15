@@ -1,0 +1,14 @@
+"id";"Partida_id";"Times";"Tempo";"Monstro";"Dragão_id"
+1;1;"Azul";"05:58:00";"Dragão";1
+2;1;"Azul";"08:35:00";"Arauto";0
+3;1;"Azul";"11:58:00";"Dragão";5
+4;1;"Azu";"15:03:00";"Arauto";0
+5;1;"Azul";"18:17:00";"Dragão";6
+6;2;"Azul";"05:43:00";"Dragão";5
+7;2;"Azul";"20:29:00";"Dragão";2
+8;2;"Vermelho";"12:58:00";"Dragão";3
+9;2;"Vermelho";"22:11:00";"Barão";0
+10;2;"Vermelho";"26:04:00";"Dragão";2
+11;2;"Azul";"30:35:00";"Barão";0
+12;2;"Azul";"37:04:00";"Dragão";2
+13;2;"Vermelho";"37:48:00";"Barão";0
