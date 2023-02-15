@@ -20,9 +20,9 @@ Feramentas Utilizadas:
 #### Instruções para importação e uso do banco de dados:
 1.	Baixe os arquivos do repositório git;
 2.	Abra o Xampp e execute os seguintes códigos;
-    - msql -u root -e ‘create database db_projeto_4’
-    - msql -u root db_projeto_4 <local do arquivo/bdtabelasLOL.sql>
-    - mysql -u root -e ‘use db_projeto_4; show tables’
+    - msql -u root -e ‘create database league_of_legends’
+    - msql -u root league_of_legends <local do arquivo/bdtabelasLOL.sql>
+    - mysql -u root -e ‘use league_of_legends; show tables’
     - se aparecer 7 tabelas o procedimento de importação foi correto.
 3.	Abra o MySQL Workbench e estabeleça uma conexão e execute os seguintes códigos:
 4.	use db_projeto_4;
