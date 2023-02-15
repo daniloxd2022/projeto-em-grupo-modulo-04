@@ -16,6 +16,7 @@ Feramentas Utilizadas:
 - **Power Bi**
 - **VisualCode**
 - **Canva**
+- **Excel**
 
 #### Instruções para importação e uso do banco de dados:
 1.	Baixe os arquivos do repositório git;
