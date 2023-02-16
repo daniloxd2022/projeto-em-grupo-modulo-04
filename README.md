@@ -28,4 +28,4 @@ Feramentas Utilizadas:
 
 
 **Direitos Autorais:**
-*Rodrigo, Monique vieira, Danilo Nascimento*
+*Rodrigo Santos, Monique vieira, Danilo Nascimento*
