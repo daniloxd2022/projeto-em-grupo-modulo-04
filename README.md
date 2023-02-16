@@ -6,7 +6,7 @@ Objetivo
 > montar um dashboard com base no conjunto de dados
 escolhidos pelo squad.
 ### Principais perguntas:
-###### Código no mysql
+
 
 - QUAL TIMES TEVE MAIS ABATES ?
 - QUAL TIME QUE MATOU MAIS DRAGÃO? 
