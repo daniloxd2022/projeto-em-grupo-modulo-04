@@ -246,3 +246,19 @@ VALUES(1,"Azul",'05:58',"Dragão",1),
 (2,"Azul",'37:04',"Dragão",2),
 (2,"Vermelho",'37:48',"Barão",null)
 ;
+
+SELECT COUNT(TIMES)
+FROM Kills
+WHERE Times="Azul" AND Partida_id=1;
+
+SELECT COUNT(TIMES)
+FROM Kills
+WHERE Times="Azul" AND Partida_id=2;
+
+SELECT COUNT(TIMES)
+FROM Kills
+WHERE Times="Vermelho" AND Partida_id=1;
+
+SELECT COUNT(TIMES)
+FROM Kills
+WHERE Times="Vermelho" AND Partida_id=2;
