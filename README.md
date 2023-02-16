@@ -7,7 +7,11 @@ Objetivo
 escolhidos pelo squad.
 ### Principais perguntas:
 ###### Código no mysql
---perguntas
+
+QUAL TIMES TEVE MAIS ABATES ?
+QUAL TIME QUE MATOU MAIS DRAGÃO? 
+ESTRUTURAS DESTRUIDAS?
+QUAL PARTIDA DUROU MAIS?
 
 
 Feramentas Utilizadas:
