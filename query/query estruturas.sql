@@ -1,1 +1,0 @@
-SELECT * FROM league_of_legends.estruturas;
