@@ -1,4 +1,4 @@
-/*1- QUAL TIMES TEVE MAIS ABATES ?*/
+/*1- QUAIS TIMES TEVE MAIS ABATES ?*/
 
 
 USE league_of_legends;
