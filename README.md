@@ -8,7 +8,7 @@ escolhidos pelo squad.
 ### Principais perguntas:
 
 
-- QUAL TIMES TEVE MAIS ABATES ?
+- QUAIS TIMES TEVE MAIS ABATES ?
 ```
 USE league_of_legends;
 
